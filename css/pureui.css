@@ -1,29 +1,67 @@
 /* Navbar */
 .nav {
-  
+    background-color: white;
+    margin: -10px;
+    padding: 20px;
+    padding-bottom: 18px;
+    padding-left: 30px;
+    padding-right: 45px;
+    width: auto;
+    color: white;
+    border-bottom: 1px solid lightgrey;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, Arial, "Segoe UI",
+        Roboto, "Helvetica Neue", sans-serif;
 }
+
+/* The header for nav */
+.nav--head {
+    font-size: 24px;
+    color: #2d50e9;
+}
+
+/* Nav Links */
+.nav--item {
+    margin-left: auto;
+    margin-right: 0;
+    padding-top: 5px;
+    float: right;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 
 /* Top Banner */
-.t-banner { 
-
-}
+.t-banner {}
 
 /* Alert Banner */
-.a-banner {
-  
-}
+.a-banner {}
 
 /* Card */
-.card {
-  
-}
+.card {}
 
 /* Primary Button */
-.a-button {
-  
-}
+.a-button {}
 
 /* Secondary Button */
-.b-button {
-  
+.b-button {}
+
+/* Bold Font */
+.bold {
+    font-weight: bold;
+}
+
+/* Red Font Color */
+.f-red {
+    color: red;
+}
+
+/* Blue Font Color */
+.f-blue {
+    color: #2d50e9;
+}
+
+/* Green Font Color*/
+.f-green {
+    color: green;
 }
