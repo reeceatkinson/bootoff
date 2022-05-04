@@ -1,6 +1,4 @@
 # Welcome to PureUI :rocket:
-Formerly known as BootOff
-
 ## Roadmap
 - [ ] Make /docs folder
 - [X] Add License
@@ -14,8 +12,6 @@ The easiest way to get started an make a pull request is by press the ```.``` on
 
 ### Adding or Editing the CSS
 Go into the **/css** folder and edit **pureui.css** then submit a PR.
-
-
 
 ### Editing the Website or Docs
 Go into the **/docs** folder and edit the files.
