@@ -13,7 +13,9 @@ Formerly known as BootOff
 The easiest way to get started an make a pull request is by press the ```.``` on your keyboard.
 
 ### Adding or Editing the CSS
-Go into the **/css** folder and edit **pureui.css** then submit a PR
+Go into the **/css** folder and edit **pureui.css** then submit a PR.
+
+
 
 ### Editing the Website or Docs
 Go into the **/docs** folder and edit the files.
